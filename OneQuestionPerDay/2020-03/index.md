@@ -260,4 +260,32 @@ D.平衡矩阵
 
 ​	**题目：**
 
+```html
+A client assigns a project manager from a consulting company. What should the project
+manager do first?
+A. Conduct a kick-off meeting for the client’s employees and the consultants involved in the
+project.
+B. Contact key customer stakeholders to obtain their input and establish relationships.
+C. Ask the consulting company’s resource manager to review available resources.
+D. Ensure that the project charter is formally issued.
+客户任命一位来自咨询公司的项目经理。项目经理首先应该做什么？
+A.为参与项目的客户员工和咨询顾问召开一次项目启动大会。
+B.联系关键客户干系人，获得他们的输入并建立关系。
+C.要求咨询公司的资源经理审查可用资源。
+D.确保正式签发项目章程。
+```
+
+​	**答案**
+
+```html
+答案：D
+解析：在ABD三个参考答案中，最优参考答案为D，项目章程的发布是项目正式启动的标志，接下来再做B，再做A。
+```
+
+
+
+### 2020-03-12
+
+​	**题目：**
+
 ​	**答案**
