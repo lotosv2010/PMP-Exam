@@ -29,7 +29,7 @@ C. 削减其它项目预算来支持本项目。
 D. 寻找一家愿意接受这个低价的实施方。
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：A
@@ -68,7 +68,7 @@ C.项目C
 D.项目D
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：C
@@ -106,7 +106,7 @@ C.项目C
 D.项目D
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：C
@@ -135,7 +135,7 @@ C.请求透露竞争对手的估算。
 D.进行成本效益分析。
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：D
@@ -164,7 +164,7 @@ C.项目A
 D.项目C
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：C
@@ -191,7 +191,7 @@ C.经验教训知识库
 D.变更日志
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：C
@@ -221,7 +221,7 @@ C.项目型组织
 D.弱矩阵型组织
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：A
@@ -247,7 +247,7 @@ C.弱矩阵
 D.平衡矩阵
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 参考答案：D
@@ -275,7 +275,7 @@ C.要求咨询公司的资源经理审查可用资源。
 D.确保正式签发项目章程。
 ```
 
-​	**答案**
+​	**答案：**
 
 ```html
 答案：D
@@ -288,4 +288,267 @@ D.确保正式签发项目章程。
 
 ​	**题目：**
 
-​	**答案**
+```HTML
+A customer learns that a requirement will not be met unless a task that was not identified
+during planning is added to the project. A team fielder successfully executes the task and later
+inform the project manager during a weekly meeting. Despite the favorable outcome, the project
+manager is unhappy with this information, since the task did not have the necessary approval.
+What plan outlines the requirement for approval?
+A. Risk management
+B. Change management
+C. Scope management
+D. Cost management
+客户意识到除非在项目中添加一项在规划期间未识别到的任务，否则将不满足要求。团队成员成功执行了这项任务，并在之后的一次周会上通知项目经理。即使是有利的结果，但项目经理对这个信息感到不满，因为任务没有得到必要的批准。哪一份计划概述了批准要求？
+A.风险管理
+B.变更管理
+C.范围管理
+D.成本管理
+```
+
+​	**答案：**
+
+```html
+答案：B
+解析：变更管理计划将对如何变更做出详细规定。
+```
+
+
+
+### 2020-03-13
+
+​	**题目：**
+
+```HTML
+What is the BEST use of a Work Authorization System ?
+A. It manages the timing and sequence of when activities need to be performed
+B. It manages who performs the activity
+C. It identifies the resources needed to complete activities
+D. It is used for comparing actual work against the baselines
+工作授权系统的最佳用途是什么？
+A.它管理需要执行活动的时间和顺序
+B.它管理谁来执行这项活动
+C.它确定完成活动所需的资源
+D.它用于比较实际工作与基线
+```
+
+​	**答案：**
+
+```HTML
+参考答案：A
+解析：它定义了如何授权工作以及如何在正确的时间和正确的顺序完成工作。选项B不正确，因为执行工作的人来自责任分配矩阵，选项C也不是正确答案。选项D与监督和控制工作绩效数据有关，而工作授权系统没有涵盖。参考PMBOK39
+```
+
+
+
+### 2020-03-16
+
+​	**题目：**
+
+```HTML
+You are in charge of managing a software development project which is related to simulations for driving racing cars.In one of your team meetings - it has been reported that a lot of issues have been reported in the air tunnel modelling module.On deeper analysis - it is found that many of the issues could have been prevented had a simple code review checklist been used.You prepare a code review checklist and ensure the code is reviewed as per the checklist.This is a good example of :
+A. Corrective Action
+B. Preventive Action
+C. Defect Repair
+D. Quality Control
+你负责管理与驾驶赛车模拟相关的软件开发项目。在你的一次团队会议中 - 据报道，在空气隧道建模模块中报告了很多问题。进一步分析发现只要使用简单的代码审查清单就可以避免许多问题。你准备了代码审查清单，并确保代码按照清单进行审查。这是一个很好的示例：
+A.纠正措施
+B.预防性行动
+C.缺陷修复
+D.质量控制
+```
+
+​	**答案：**
+
+```HTML
+参考答案：A
+解析：这个问题是为了测试你对纠正措施和预防措施之间的区别的理解。缺陷修复适用于当前交付中发现的问题，这也不是关于质量控制。所以使我们只有两种选择 ：纠正或预防措施。而预防措施之前不会出现不符合。预防措施总是采取积极主动，在所述问题没有任何示范采取积极措施，因此这不是预防措施的一个例子。所以正确的答案是选项A纠正措施。参考PMBOK96。
+```
+
+
+
+### 2020-03-17
+
+​	**题目：**
+
+```HTML
+During project implementation, the project manager discovers that a team member has used
+open source software. This is a violation of company regulations and will seriously affect the
+project’s release.What should the project manager do?
+A. Execute the risk management plan.
+B. Remove the team member.
+C. Log the risk in the risk register.
+D. Submit a change request to delete the open source software.
+项目经理在项目执行过程中发现团队成员违规使用开源软件，违反公司规章并且将严重影响项目的发布。这时候项目经理应该如何处理？
+A.执行风险管理计划。
+B.开除该成员。
+C.在风险登记册中记录该风险。
+D.提交变更请求，删除使用的开源软件。
+```
+
+​	**答案：**
+
+```HTML
+答案：D
+解析：纠正措施属于变更，需要提交变更请求。
+```
+
+
+
+### 2020-03-18
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-19
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-20
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-23
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-24
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-25
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-26
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-27
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-30
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
+
+
+### 2020-03-31
+
+​	**题目：**
+
+```HTML
+
+```
+
+​	**答案：**
+
+```HTML
+
+```
+
