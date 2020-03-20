@@ -399,13 +399,23 @@ D.提交变更请求，删除使用的开源软件。
 ​	**题目：**
 
 ```HTML
-
+You are a project manager of a company and your project is currently in execution phase.The customer has requested you for additional work. This work will affect the budget, but not the schedule of the project. What should you do next?
+A. Add the additional requirements to the project plan.
+B. Ignore the request.
+C. Explain the change procedure and ask to submit a request for change.
+D. Discuss with the project team about the change.
+你是公司的项目经理，你的项目目前处于执行阶段。客户已要求你进行其他工作。这项工作将影响预算，但不会影响项目的进度。接下来你应该做什么？
+A.将额外要求添加到项目计划中。
+B.忽略请求。
+C.解释变更程序并要求提交变更请求。
+D.与项目团队讨论变更。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：C
+解析：客户提出的其他工作会影响预算，虽然不会影响进度，也要通过变更流程来采取对应措施，因此解释变更程序并要求提交变更请求是最佳选择。
 ```
 
 
@@ -415,13 +425,25 @@ D.提交变更请求，删除使用的开源软件。
 ​	**题目：**
 
 ```HTML
-
+A new mobile application is in the integration testing phase. To maintain competitive
+advantage in an aggressive market, the product manager requests the inclusion of a new feature.
+The project manager disagrees with this. What should the project manager do?
+A. Immediately implement the new feature to minimize schedule impact.
+B. Refuse to implement the feature to minimize time-to-market impact.
+C. Prepare and submit a change request to the change control board (CCB).
+D. Review the request and obtain project sponsor approval.
+一个新的移动应用程序正处于集成测试阶段。为了在激进的市场中保持竞争优势，产品经理要求包含一项新功能。项目经理不同意。项目经理应该怎么做？
+A.立即实施新功能，尽可能减少进度影响。
+B.拒绝实施该功能，尽可能减少对投入市场时间的影响。
+C.准备并向变更控制委员会（CCB）提交一份变更请求。
+D.审查请求并获得项目发起人的批准。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：C
+解析：无论项目经理自身是否同意变更，都需要通过正式的变更控制流程来处理，范围基准变更通常由CCB来决定，项目经理通常是CCB的成员之一。
 ```
 
 
@@ -431,13 +453,25 @@ D.提交变更请求，删除使用的开源软件。
 ​	**题目：**
 
 ```HTML
-
+During a project’s construction phase, the customer submits an important change that will
+affect the budget and schedule. What should the project manager do?
+A. Review the change management plan and proceed according to its requirements.
+B. Ask the supervisor for instructions on how to proceed.
+C. Implement the change and report it to the supervisor.
+D. Ask the customer to withdraw the request to avoid affecting the budget and schedule.
+项目进入了施工阶段。这个时候客户提出了一项重要变更，这将会改变项目的预算及进
+度。作为项目经理将如何处理这个问题？
+A.查阅项目变更管理计划，根据其要求执行。
+B.将变更情况向主管汇报，根据主管的批示执行。
+C.按照客户的要求进行变更修改，并向主管汇报变更情况。
+D.说服客户不要进行变更，避免带来巨大的损失
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：A
+解析：参照变更管理计划中将对于变更管理的要求进行处理，是正确的。B 参考答案中，主管不能决定涉及基准的变更；C 和 D 明显不对。
 ```
 
 
