@@ -481,13 +481,24 @@ D.说服客户不要进行变更，避免带来巨大的损失
 ​	**题目：**
 
 ```HTML
-
+Four months after the approval of the project scope, the client requests features that will
+generate changes to the project management plan, what should the project manager do next?
+A. Work on the customer's request after completion of the project.
+B. Proceed with changes if contingency is available.
+C. Process a change request.
+D. Consult the risk register to identify a solution.
+在项目范围获批四个月后，客户请求增加功能，但该请求将可能对项目管理计划产生变更。项目经理下一步应该怎么做？
+A.在项目完工之后处理客户的请求。
+B.如有应急计划，则进行变更。
+C.处理变更请求
+D.查阅风险登记册，确定解决方案。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：C
+解析：对于客户提出的变更，按照变更管理要求进行处理。
 ```
 
 
