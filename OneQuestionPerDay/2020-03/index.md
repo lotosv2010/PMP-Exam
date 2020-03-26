@@ -508,13 +508,23 @@ D.查阅风险登记册，确定解决方案。
 ​	**题目：**
 
 ```HTML
-
+To achieve competitive market advantage, a project sponsor requests delivery of a product three months ahead of schedule. What should the project manger do next?
+A. Implement overall change control.
+B. Update the project management plan.
+C. Exert influence on the factors that led to the schedule change.
+D. Submit a change request.
+因为新产品的早发布有利于先于竞争对手抢占市场，项目发起人要求交付时间提早三个月。项目经理接下来应该怎么做？
+A.实施整体变更控制。
+B.更新项目管理计划。
+C.对引起进度变更的因素施加影响。
+D.提出变更请求。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：A
+解析：在参考答案A与BCD之间，推荐A参考答案，整体变更控制的全流程包括B、C、D答案。
 ```
 
 
@@ -524,13 +534,28 @@ D.查阅风险登记册，确定解决方案。
 ​	**题目：**
 
 ```HTML
-
+A software project is undergoing testing during the final user acceptance stage, and
+acceptance is anticipated by the next day. A user unexpectedly realizes that a new feature is
+required to run the current software. The user tells the developer that it must be completed by
+the next day or it will not be approved. The developer believes that two days are required to
+complete this feature. What should the project manager do?
+A. Refuse to develop the feature, as it is out of scope.
+B. Ask the user to submit a written change request, and obtain permission from the customer's
+project manager.
+C. Work overtime and revise the software in order to ensure timely project approval.
+D. Perform an analysis with the developer to determine a workaround.
+一个软件项目已在最后的用户接收阶段测试中，按照计划明天就要验收。用户突然发现必须要有一个新功能才能使目前的软件往下运行，用户告诉开发人员，必须要明天完成，否则拒绝验收这个软件项目。软件开发人员觉得需要2 天时间才能开发完这个功能。项目经理应该怎么做？
+A 拒绝开发，因为这是新功能要求，不在项目范围之内。
+B.要求用户书面提交变更请求，并得到客户方项目经理的批准。
+C.加班修改软件来保证明天的项目验收。
+D.和开发人员一起分析，找变通方案来解决当前问题。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：B
+解析：按照标准的变更程序来推进。
 ```
 
 
