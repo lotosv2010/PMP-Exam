@@ -565,13 +565,25 @@ D.和开发人员一起分析，找变通方案来解决当前问题。
 ​	**题目：**
 
 ```HTML
-
+At the last minute, a project team implements a new feature that is not included in the scope
+statement. To obtain customer approval, what process should the project manager implement
+next?
+A. Plan Scope Management
+B. Validate Scope
+C. Perform Integrated Change Control
+D. Perform Qualitative Risk Analysis
+在最后一刻，项目团队实施了范围说明书中未包含的新功能。若要获得客户的批准，项目经理下一步应执行哪个过程？
+A. 制定范围管理计划
+B. 核实范围
+C. 执行整体变更控制
+D. 执行定性风险分析
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：C
+解析：得到客户的批准，正确的做法就是通过整体变更控制，也是四个选项中最好的参考答案。
 ```
 
 
