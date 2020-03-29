@@ -593,13 +593,23 @@ D. 执行定性风险分析
 ​	**题目：**
 
 ```HTML
-
+John is managing a project.The project is about three fourths done when the site engineer reports that due to inherent complexities in a certain task the deliverables would get delayed.This would involve additional analysis and then implementation.He requests that this new work that was not envisioned earlier be added to the scope and also the time required be added to the schedule.You and the site engineer have analyzed the impact of this change to cost, and have written up a change request and requested approval from change control board.Just today you have received approval from the change control board - what should be the imemdiate course of action ?
+A. Start work immediately
+B. Ascertain the impact of this change to scope , schedule and cost before making any change.
+C. Perform Quality Assurance
+D. Make sure that the scope baseline and schedule baseline are updated to reflect the approved change before implementing the change.
+约翰正在管理一个项目。当项目工程师报告说，由于某些任务的内在复杂性，可交付成果会被延迟，项目大约有四分之三完成。这将涉及到额外的分析和实施。他要求这项新工作是以前没有预想的，并将被添加到范围内，而且还需要将时间添加到日程表中。你和现场工程师已经分析了此变更对成本的影响，并且写下了变更请求并要求变更控制委员会批准。今天你已经收到变更控制委员会的批准 - 应该采取什么样的行动？
+A.立即开始工作
+B.在作出任何改变之前确定这种变化对范围，时间表和成本的影响。
+C.执行质量保证
+D.确保在实施更改之前更新范围基线和时间表基准以反映批准的更改。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：D
+解析：由于更改已获得批准，因此在实施更改之前，应先更新基准（此例中为范围和时间表基准）。
 ```
 
 
