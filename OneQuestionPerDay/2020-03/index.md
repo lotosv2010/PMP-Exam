@@ -619,13 +619,25 @@ D.确保在实施更改之前更新范围基线和时间表基准以反映批准
 ​	**题目：**
 
 ```HTML
-
+Midway through a project with a 12-month contract, written notice is unexpectedly received
+from the customer requesting transfer of the project to a competitor, what should the project
+manager do?
+A. Ask company management for assistance.
+B. Initiate project closure.
+C. Review the project charter.
+D. Review the terms of the signed customer contract.
+A公司承接了一个为期 12个月的合同。当项目进行到一半的时候，突然接到客户的书面通知将项目转移给竞争公司B。这个时候A公司的项目经理下一步应该做什么？
+A. 请求公司管理层的协助。
+B. 启动项目收尾工作。
+C. 查看项目章程中的相关规定。
+D. 查看与客户签署的合同条款。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：D
+解析：在请示管理层的协助，启动收尾之前，需要查阅合同中的相关规定。
 ```
 
 
@@ -635,12 +647,25 @@ D.确保在实施更改之前更新范围基线和时间表基准以反映批准
 ​	**题目：**
 
 ```HTML
-
+A project is near closure, and the developer has finished product development. The project
+sponsor now wants the project manager to deliver the product ahead of schedule. What should
+the project manager do?
+A. Ask the sponsor to withdraw the request.
+B. Hold a stakeholder meeting.
+C. Deliver the product as originally scheduled.
+D. Have the developer start project wrap-up activities, and prepare to deliver ahead of
+schedule.
+项目接近尾声，开发人员也已完成了产品的开发。项目发起人要求项目经理提前向客户交付该产品。项目经理应该怎么做？
+A.找项目发起人谈话试图说服他收回请求。
+B.召开干系人会议。
+C.仍按原计划发布产品。
+D.让开发人员展开项目的收尾工作，准备提前交付。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：D
+解析：项目已经完成项目产品需求，可以进行提前收尾，PMI关于项目收尾的管理要求。
 ```
 
