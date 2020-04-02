@@ -15,13 +15,24 @@
 ​	**题目：**
 
 ```html
-
+A new warehouse is ready for operations. Before operations begin, the project manager must
+prepare the final project report. What should the project manager refer to?
+A. Lessons learned, project charter, and work breakdown structure (WBS)
+B. Project baselines,accepted deliverables, and earned value (EV)
+C. Checklists, responsibility assignment matrix(RAM), and risk management plan
+D. Accepted deliverables, lessons learned, and transition criteria
+一个新的仓库准备好运营。运营开始之前，项目经理必须准备最终项目报告。项目经理应该查阅哪些文件？
+A.经验教训、项目章程和工作分解结构(WBS)
+B.项目基准、已验收的可交付成果和挣值（EV）
+C.核对表、责任分配矩阵(RAM）和风险管理计划
+D.已验收的可交付成果、经验教训和移交标准
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：D
+解析：四个参考答案中，作为项目转入运营之前的最终报告，最好的内容是参考答案D。
 ```
 
 
