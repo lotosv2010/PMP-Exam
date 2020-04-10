@@ -130,13 +130,25 @@ D.包含变更，并更新项目管理计划。
 ​	**题目：**
 
 ```html
-
+A project manager identifies that a product can be improved with additional features without
+impacting the schedule, budget, or resources. Believing that all original requirements are met with these added features, the project manager does not inform the client to what does this
+refer?
+A. Scope creep
+B. Scope baseline
+C. Scope float
+D. Scope change
+项目经理确定产品可以通过增加额外功能得以改进，但不影响进度、预算或资源。相信这些新增的功能能满足所有原始需求，项目经理没有通知客户。这称为什么？
+A.范围蔓延
+B.范围基准
+C.范围浮动
+D.范围变更
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：A
+解析：未经批准的范围变更，属于范围蔓延。
 ```
 
 
