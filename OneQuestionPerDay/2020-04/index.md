@@ -184,13 +184,23 @@ D.快速跟进
 ​	**题目：**
 
 ```html
-
+You are in the process of defining activities and have broken down the WBS into individual activities.You now decide to uniquely tag each activity with a unique code.So here what you have done is defined an ___ for each Activity
+A. Schedule Network Diagram
+B. Activity List
+C. Milestone List
+D. Activity Identifier
+你正在定义活动并已将WBS分解为单独的活动。你现在决定使用唯一的代码标记每个活动。因此，你在这里为每个活动定义了一个______。
+A.时间表网络图
+B.活动清单
+C.里程碑清单
+D.活动标识符
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：D
+解析：问题表明已经决定对每个标识的活动进行唯一标记，这只不过是活动标识符，这是在创建活动列表期间完成的。
 ```
 
 
