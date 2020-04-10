@@ -158,13 +158,23 @@ D.范围变更
 ​	**题目：**
 
 ```html
-
+You are responsible for managing a project that deals with laying out a freeway connecting two major port cities.Progress on the project has been smooth and you and your team are very confident on completing the project well within the stipulated timelines.On reviewing you see that the project has also run below the budget resulting in savings.You decide to add an extra feature of reflector strips on the road every mile.You do a quick calculation and are satisfied that neither budget nor schedule will slip.You feel that by adding these extra features you could also bag some future projects as well.This is an example of :
+A. Scope Creep
+B. Gold Plating
+C. Integrated Change Control
+D. Fast Tracking
+你负责管理一个项目，该项目涉及布置连接两个主要港口城市的高速公路。项目进展顺利，你和你的团队非常有信心在规定的时间内完成项目。在审核中，你会看到该项目也在预算之下运行，从而节省了成本。你决定在每英里的道路上增加反光条的额外功能。你快速计算了一下，发现预算和时间表都不会因此受到影响，非常满意。你认为通过添加这些额外的功能，也可以为一些未来的项目做个好的标榜。这是属于如下哪个描述的一个例子：
+A.范围潜变
+B.镀金
+C.实施整体变更控制
+D.快速跟进
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：B
+解析：这是镀金的一个例子。C选项实施整体变更控制处理正式批准或拒绝变更，因此它不是正确的答案。D选项快速跟进是一种时间表压缩技术 - 因此它也不是正确的答案。虽然A选项范围潜变与范围的变化有关，但是它与产品或项目范围的不受控制的变化有关，而且往往是由于客户的干涉。这位经理认为，通过增加额外的功能，可以为一些未来的项目做个好的标榜，因此属于镀金。镀金具有目的性，为了让干系人“更满意”。PMI主义反对镀金和范围蔓延。
 ```
 
 
