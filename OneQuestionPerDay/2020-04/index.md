@@ -70,13 +70,27 @@ D.工作分解结构（WBS）
 ​	**题目：**
 
 ```html
-
+After a product is released for user acceptance testing, several defects are found. This
+results in the product being rejected by the customer,What should the project manager do next?
+A. Review the quality management plan using the defect analysis acceptance testing, and
+update if necessary.
+B. Advise the customer that the defects are within the product tolerance limits outlined in the
+quality management plan.
+C. Meet with the project team to review the product's requirement specifications.
+D. Hold a project team meeting to identify the problems, the time of the occurrence, and why it
+occurred.
+在一个产品发布用于用户验收测试后，发现了几个缺陷。这导致产品被客户拒收。项目经理下一步应该怎么做？
+A.审查质量管理计划时应用缺陷分析验收测试（标准），并在必要时更新。
+B.通知客户，缺陷在质量管理计划中概述的产品公差范围内。
+C.与项目团队开会审查产品的需求规范。
+D.召开项目团队会议，识别问题、发生的时间以及为什么会发生。
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：D
+解析：遇到问题首先分析问题、识别原因、然后解决问题。
 ```
 
 
