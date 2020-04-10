@@ -100,13 +100,27 @@ D.召开项目团队会议，识别问题、发生的时间以及为什么会发
 ​	**题目：**
 
 ```html
-
+Midway through a project's execution phase, a team member proposes changes to provide
+more flexibility and additional features. Project requirements define only the need for a simple
+solution that is less flexible. Implementing these changes will result in a delay. What should the
+project manager do?
+A. Reject the proposal, and follow the project management plan.
+B. Escalate it to the project sponsor via a change request.
+C. Agree to the changes, and arrange for more resources at maintain the schedule.
+D. Incorporate the changes, and update the project management plan.
+在项目执行阶段中途一名团队成员提出变更建议，能提供更多的灵活性和额外功能。项目需求定义仅需要具有较少灵活性的简单解决方案，而实施这些变更将导致延期。项目经理应该怎么做？
+A.拒绝该建议，并遵循项目管理计划。
+B.通过变更请求将该问题上报给项目发起人。
+C.同意变更，并安排更多的资源来保持进度计划。
+D.包含变更，并更新项目管理计划。
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：A
+解析：项目范围管理要求做且只做完成项目所需要的全部工作，要按照定义的需求来实施
+项目，避免渡金。题干暗示这个不符合需求定义的变更建议是非增值的、镀金的，项目经理应拒绝该建议，不提出变更请求。
 ```
 
 
