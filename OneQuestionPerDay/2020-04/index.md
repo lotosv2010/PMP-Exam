@@ -210,13 +210,23 @@ D.活动标识符
 ​	**题目：**
 
 ```html
-
+You are the project manager for a Project. You are updating the WBS during Define Activities, which is often called ________?
+A. Refinements
+B. Updates
+C. Activities
+D. Supporting detail
+你是项目的项目经理。你是在定义活动期间更新WBS，通常称为________？
+A.渐进明细
+B.更新
+C.活动
+D.支持细节
 ```
 
 ​	**答案：**
 
 ```html
-
+参考答案：A
+解析：在定义活动期间更新WBS通常称为渐进明细。它一般发生在风险较高的项目中。
 ```
 
 
@@ -226,13 +236,23 @@ D.活动标识符
 ​	**题目：**
 
 ```html
-
+A network diagram shows that the earliest an activity could start is at the end of week 7 and that it must be completed by the start of week 20. The activity requires a total of 10 business days to complete. In terms of weeks, what is the float for the performance of this activity?
+A. 3
+B. 10
+C. 13
+D. 17
+网络图显示，某项活动的最早开始时间是在第 7 周结束时，并且必须在第 20 周开始之前完成。这项活动总共需要 10 个工作日完成。那么这项活动绩效的浮动时间是多少周？
+A.3
+B.10
+C.13
+D.17
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：B
+解析：10个工作日就是2周，第20周开始之前完成就是第19周结束时，因此浮动时间=19-7-2=10周。
 ```
 
 
@@ -242,13 +262,24 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+In a weekly meeting, a project team member reports that they are unaware of what task is
+to be performed next, what should the project manager review with the team member?
+A. Work breakdown structure (WBS)
+B. Project schedule
+C. Critical path
+D, Milestone list
+在一次周会上，项目团队成员报告他们不知道下一步要执行什么任务。项目经理应与团队成员查阅下列哪一项？
+A.工作分解结构(WBS)
+B.项目进度计划
+C.关键路径
+D.里程碑清单
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：B
+解析：项目进度计划是进度模型的输出，展示活动之间的相互关联，以及计划日期、持续时间、里程碑和所需资源。项目进度计划中至少要包括每个活动的计划开始日期与计划结束日期。项目团队成员的工作是根据项目进度计划进行安排的。B参考答案包括了C与D的内容。
 ```
 
 
@@ -258,13 +289,23 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+You and and your team have just created a schedule network diagram.You have come up with the estimates and have defined the durations and subsequently have identified the Critical Path.You now decide to do a 'Backward Pass' through the Schedule Network Diagram - what would you be calculating ?
+A. The Early Start and Early Finish for each activity
+B. The Late Start and Late Finish for each activity
+C.The duration of the other paths
+D. The duration of the critical path
+你和你的团队刚刚创建了一个进度网络图。你已经提出了估算并定义了持续时间，随后确定了关键路径。你现在决定通过进度网络图执行“逆推法”，下面哪项是正确的算法？
+A.每项活动的最早开始和最早完成
+B.每项活动的最晚开始和最晚完成
+C.其他路径的持续时间
+D.关键路径的持续时间
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：B
+解析：选项C和D不正确，因为逆推法不用于计算持续时间。事实上，根据持续时间计算关键路径。选项A谈及早期开始和早期完成，这是使用“顺推法”。使用“逆推法”是我们计算进度网络图中所有活动的最晚开始时间和最晚结束时间。
 ```
 
 
@@ -274,13 +315,25 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+A project manager receives an approved project scope based on a cost estimate and begins the
+implementation of a new software system. What type of cost estimate was used at implementation'?
+A. Parametric
+B. Bottom-up
+C. Rough order of magnitude (ROM)
+D. Analogous
+项目经理收到基于成本估算的已批准项目范围，并开始实施新的软件系统。实施时使用的是什么类型的成本估算？
+A.参数估算
+B.自下而上估算
+C.粗略量级估算（ROM）
+D.类比估算
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：B
+解析：已批准的范围，可以理解为范围基准清楚、基于WBS的估算为自下而上估算。本题中没有看到和参数估算有关的数据与统计类数值，同时也没有体现出粗略量级估算相
+关的的信息（-25% ~ +75%），排除C。
 ```
 
 
@@ -290,13 +343,23 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+Rather than use Triangular Distribution while doing Three Point Estimation you choose to use Beta Distribution.Based on your analysis and understanding you are confident that the project would be completed with a total cost of 108,000 $.You also estimate that a best case estimate would be 90000 $ while a worst case scenario would result in the costs incurred to shoot up to 138000 USD. What would the Three point Cost estimate be using Beta Distribution ?
+A.112000 $
+B.110000 $
+C.101000 $
+D.None of the above
+在进行三点估算时，与使用三角分布相比，你更倾向选择使用Beta分布。基于你的分析和理解，你有信心完成一个总成本为108,000美元的项目。你估计最佳的案例成本估计值是 90000美元，而最坏的情况将导致成本预算高达138000美元的费用。在这种情况下使用Beta分布三点成本估算会有多少呢？
+A.112000 $
+B.110000 $
+C.101000 $
+D.以上都不是
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：B
+解析：问题说明我们应该使用三点估计，使用Beta分布。这个估计方法的公式是4a + b + c / 6，其中a =最可能估计，b =基于最佳案例情况的估计和c =基于最坏情况的估计。所以使用Beta分布的三点估计计算值是（4 * 108000）+ 90000 + 138000/6 = 660000/6 = 110000 $
 ```
 
 
@@ -306,13 +369,28 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+To prepare project forecast information, a project manager performs earned value (EV)
+analysis. The project manager identifies that by next month, the schedule variance (SV) and cost
+variance (CV) will be negative, and the actual cost (AC) will exceed the baseline cost. What should
+the project manager do?
+A. Crash the schedule.
+B. Use the management reserve.
+C. Fast track the schedule.
+D. Create a change request.
+为了准备项目预测信息，项目经理执行了挣值（EV）分析。项目经理识别到在下个月前，
+进度偏差（SV）和成本偏差（CV）将为负数，而实际成本(AC）将超出基准成本PV，项目经
+理应该怎么做？
+A.赶工。
+B.使用管理储备。
+C.快速跟进进度计划。
+D.创建变更请求。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：C
+解析：进度偏差问题首先要进行进度压缩，赶工或快速跟进（6.6的工具），然后再提出变更请求（6.6的输出）。
 ```
 
 
@@ -322,13 +400,23 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+The Project Quality Management process must __________.
+A. Address the quality of the management and product
+B. Improve the project management and the quality of the product
+C. Ensure that the project satisfies customer requirements
+D. All of the above
+项目质量管理过程必须__________。
+A.解决管理和产品的质量问题
+B.改善项目管理和产品质量
+C.确保项目满足客户要求
+D.以上所有
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：D
+解析：项目质量管理：解决项目管理和项目产品管理问题，改进项目管理和产品质量，提供高质量的产品，质量检验，都要确保项目满足客户要求。
 ```
 
 
@@ -338,13 +426,27 @@ D.活动标识符
 ​	**题目：**
 
 ```HTML
-
+A company's director is concerned with project failure and hires a project manager to
+determine where additional funding should be allocated to ensure success. For what activity
+should the project manager recommend additional funding?
+A. Warranty work
+B.Rework
+C.Testing
+D. Scrap
+公司董事担心项目失败，并聘用一名项目经理，以确定应分配额外的资金确保项目成功。
+项目经理应建议对哪项活动分配额外资金？
+A.保修工作
+B.返工
+C.测试
+D.废料
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：C
+解析：本题点在于质量成本。预防胜于检查，测试属于质量成本中的一致性成本，其它三
+项都属于非一致性成本。
 ```
 
 
