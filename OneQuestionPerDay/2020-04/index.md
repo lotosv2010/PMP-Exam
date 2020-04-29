@@ -456,13 +456,49 @@ D.废料
 ​	**题目：**
 
 ```HTML
-
+As a project manager you have successfully delivered all project deliverables within stipulated timelines - your senior management wants you to calculate the Cost of Quality - as a project Manager what costs would you NOT consider while making this calculation ?
+A. Cost of Hiring.
+B. Prevention costs.
+C. Appraisal costs.
+D. External and InternalFailure costs.
+作为项目经理，你已经在规定的时间内成功交付了所有项目可交付成果。你的高级管理层希望你计算质量成本。作为项目经理在进行此计算时，你不会考虑哪些成本？
+A.招聘成本。
+B.预防费用。
+C.评估费用。
+D.外部和内部失败成本。
 ```
 
 ​	**答案：**
 
 ```HTML
+参考答案：A
+解析：因为招聘成本与质量成本无关。预防和评估成本是项目期间避免失败的支出，而内部和外部失败成本是项目期间和之后产生的成本因为失败。
+```
 
+
+
+### 2020-04-26
+
+​	**题目：**
+
+```HTML
+Your team is in its second month of development.You are managing a software development project for a banking product.In one of the team meetings a debate arises if defects found during Quality control need to undergo change control.Some team members are convinced that all defects should undergo change control while the other half is convinced that defects do not need to undergo change control.Which of the following statements are untrue ?
+A. Defects to deliverables need to undergo change control
+B. Defects to deliverables need not undergo change control
+C. Corrective actions need to undergo change control
+D. Preventive actions need to undergo change control
+你的团队正处于开发的第二个月。你正在管理银行产品的软件开发项目。如果在质量控制过程中发现的缺陷需要进行变更控制，在其中一次团队会议中出现了一场辩论,有些团队成员确信所有缺陷应该进行变更控制，而另一半则认为缺陷不需要进行变更控制。下列哪些陈述是不真实的？
+A.缺陷交付物需要经过变更控制
+B.缺陷交付物不需要进行变更控制
+C.纠正措施需要进行变更控制
+D.预防措施需要进行变更控制
+```
+
+​	**答案：**
+
+```HTML
+参考答案：B
+解析：针对可交付成果的缺陷，采用纠正措施或预防措施都需要进行变更控制。因此，除了选项B之外，所有上述说明均属实。
 ```
 
 
@@ -472,13 +508,23 @@ D.废料
 ​	**题目：**
 
 ```HTML
-
+he release criteria includes:
+A. the timing of the release of team members
+B. the method in which you will release them
+C. Both of the above are true
+D. None
+遣散标准包括：
+A.团队成员遣散的时间
+B.你将遣散他们的方法
+C.上述两种情况都属实
+D.没有
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：C
+解析：遣散标准包括团队成员遣散的时间以及遣散他们的方法。
 ```
 
 
@@ -488,13 +534,27 @@ D.废料
 ​	**题目：**
 
 ```HTML
-
+A project is in the execution phase and performing according to plan. Next month, a critical
+activity will start that requires specialized resources. The project manager is satisfied with the
+human resource management plan that pre-assigned all required staff. However, the functional
+manager now informs the project manager that the resource for this critical activity has resigned.
+What should the project manager do?
+A. Re-assign the critical activity across the team.
+B. Ask the human resource manager to help retain the resource.
+C. Update the risk register and schedule an urgent meeting with the project sponsor.
+D. Contract a comparably skilled resource
+项目处于执行阶段，并按计划执行。下个月，将开始一项需要专门资源的关键活动。项目经理对预先分配所有必要工作人员的人力资源管理规划感到满意。然而，职能经理现在通知项目经理，这项关键活动的资源已经辞职。项目经理应该怎么做？
+A.重新分配整个团队的关键活动。
+B.要求人力资源经理帮助留住资源。
+C.更新风险登记册，并安排与项目发起人召开紧急会议。
+D.与同等技能的资源签订合同
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：D
+解析：预先安排的组织内部资源不可用，可以与组织外部资源签订合同。
 ```
 
 
@@ -504,13 +564,25 @@ D.废料
 ​	**题目：**
 
 ```HTML
-
+A matrix-based organization initiates a project and assigns five engineers to be responsible for different specialized areas;however, the project involves many new areas in which the assigned
+engineers are generally lacking expertise. What should the project manager do?
+A. Organize relevant training to improve the team's skills.
+B. Apply for an exclusive work region so the team can collocate.
+C. Use interpersonal skills to improve team cohesiveness
+D. Hold regular internal project communication meetings.
+公司的组织结构是矩阵式的，在项目启动的时候，管理层分配给该项目 5 个工程师，分别负责项目的不同专业。工程师的工作经验普遍不足，而且该项目涉及了很多新的领域。项目经理该怎么做？
+A.组织相关的培训，以提高团队成员的技能。
+B.申请项目专有工作区域，让大家集中办公
+C.运用人际关系技能，提高团队凝聚力。
+D.定期召集项目内部沟通会。
 ```
 
 ​	**答案：**
 
 ```HTML
-
+答案：A
+解析：本题考点在于项目人力资源管理的工具，根据题意，培训作为建设项目团队的工具，
+用来提升团队绩效，在此题作为首选。
 ```
 
 
