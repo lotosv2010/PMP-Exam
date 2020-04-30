@@ -592,13 +592,23 @@ D.定期召集项目内部沟通会。
 ​	**题目：**
 
 ```HTML
-
+As a project manager , you are trying to improve teamwork, enhance interpersonal skills and competencies, motivated employees, reduced attrition, and improved overall project performance. Which is below process talk about this ?
+A. Acquire Resources
+B. Develop Team
+C. Estimate Activity Resources
+D. Control Resources
+作为项目经理，你正在努力改善团队合作，提高人际关系技能和能力，激励员工，减少人员流失，并提高整体项目绩效。下面的哪个过程讨论的是以上情况:
+A.获取资源
+B.建设团队
+C.估计活动资源
+D.控制资源
 ```
 
 ​	**答案：**
 
 ```HTML
-
+参考答案：B
+解析：开发团队是提高能力，团队成员互动和整体团队环境以提高项目绩效的过程。这一过程的关键好处是可以改善团队合作，增强人际交往技能和能力，激励员工，减少员工流失，提高整体项目绩效。
 ```
 
 
