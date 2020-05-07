@@ -43,13 +43,24 @@ D.重新制定项目计划，延迟项目上线时间。
 ​	**题目：**
 
 ```html
-
+Two project team members disagree on the technical solution for a given requirement, which
+reduces team morale. Who has the initial responsibility for resolving this disagreement?
+A. Project sponsor
+B. Project team members
+C. Project manager
+D. Human resource manager
+两名项目团队成员对给定要求的解决方案有意见上的分歧，从而降低了团队士气。谁拥有解决这一分歧的初始责任？
+A 项目发起人
+B.项目团队成员
+C.项目经理
+D.人力资源经理
 ```
 
 ​	**答案：**
 
 ```html
-
+答案：B
+解析：冲突解决的初始责任首先是冲突者双方，然后是项目经理。
 ```
 
 
